@@ -84,3 +84,4 @@ Platforms
 	•	Mobile devices
 
 I have worked across pre-sales, implementation, and post-support roles, and I am currently focusing on API integration, automation, and AI in IT operations.
+Currently, I work as a Project Manager in a UEM team at a large internet company, where I bridge management and engineering by leading projects while also contributing to technical implementation.
